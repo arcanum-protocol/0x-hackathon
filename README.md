@@ -1,6 +1,14 @@
 # 0x, AWS, Family, Polygon | Decreasing Frictions in DeFi
 Hackathon [link](https://dorahacks.io/hackathon/decreasing-frictions-in-defi/detail)
 
+# Read more about Arcanum
+
+* [Whitepaper](https://arcanum.to/whitepaper.pdf)
+* [Presentation](https://arcanum.to/deck.pdf)
+* [Full hello world article](https://arcanum.to/hello_world)
+* [Website](https://arcanum.to)
+* [App](https://app.arcanum.to)
+
 ## What is Arcanum?
 
 Arcanum is a highly scalable fully decentralized ETF protocol.
@@ -42,14 +50,6 @@ With an ETF token, users basically get a portion of all underlying assets (index
 
 The ETF contract itself represents a portfolio of assets with a specific set of rules which accepts your deposit, then routes it through algorithms which calculate users’ fees based on current ETF balance. 
 
-# Read more about Arcanum
-
-* [Whitepaper](https://arcanum.to/whitepaper.pdf)
-* [Presentation]()
-* [Full hello world article]()
-* [Website](https://arcanum.to)
-* [App](https://app.arcanum.to)
-
 # 0x api integration 
 
 There are two cases of using 0x api. First one is to utilise 0x-api to search for maximum efficient balancing orders (Might be interesting for arbitragers). Second one is our light [implementation](https://github.com/arcanum-protocol/arcanum-backend-services/tree/master/0x-api) code for /swap/v1/quote method. 
@@ -78,7 +78,7 @@ There are two cases of using 0x api. First one is to utilise 0x-api to search fo
 
 # Connect Kit
 
-Connect kit is used as a web3 wallet sdk on our [app frontend](https://api.arcanum.to)
+Connect kit is used as a web3 wallet sdk on our [app frontend](https://app.arcanum.to)
 
 # Router API
 
